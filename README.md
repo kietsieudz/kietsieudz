@@ -2,5 +2,8 @@
   <img src="banner2.png" alt="kietsieudz banner" width="100%" />
 </div>
 
-### Xin chào, mình là ThanhDi
-Link: [thanhdi.top](https://thanhdi.top)
+<h2 align="center">ThanhDi · kietsieudz</h2>
+<p align="center">
+  ThanhDi@TDStudio<br/>
+  <a href="https://thanhdi.top">thanhdi.top</a>
+</p>
