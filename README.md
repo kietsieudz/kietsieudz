@@ -4,6 +4,6 @@
 
 <h2 align="center">ThanhDi · kietsieudz</h2>
 <p align="center">
-  <a href="https://thanhdi.top">thanhdi.top</a><br>
+  <a href="https://thanhdi.top">www.thanhdi.top</a><br>
   <a href="https://thanhdi.top/contact.html">contact@thanhdi.top</a>
 </p>
