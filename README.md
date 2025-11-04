@@ -4,6 +4,6 @@
 
 <h2 align="center">TDStudio · kietsieudz</h2>
 <p align="center">
-  <a href="https://thanhdi.top">www.thanhdi.top</a><br>
-  <a href="https://thanhdi.top/contact.html">contact@thanhdi.top</a>
+  <a href="https://thanhdi.com">www.thanhdi.com</a><br>
+  <a href="https://thanhdi.com/contact.html">contact@thanhdi.com</a>
 </p>
